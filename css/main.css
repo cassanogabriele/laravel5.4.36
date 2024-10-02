@@ -1,0 +1,20 @@
+.active a{ background-color: #FF0000 !important; }
+
+a{ text-decoration: none !important; }
+
+.navbar-default{ background-color: #000000 !important; }
+
+.navbar-default a{ color : #FFFFFF !important; }
+
+.jumbotron{ background-color: #000000 !important; }
+
+.jumbotron h1{ color : #FFFFFF !important; }
+
+.btn-warning{ 
+	background-color: #FF0000 !important; 
+	border: 2px solid #FE2E2E !important;
+}
+
+#register-section{ margin-top:25px !important; }
+
+.none{ display: none; }
